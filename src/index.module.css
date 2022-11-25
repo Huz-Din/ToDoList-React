@@ -58,8 +58,8 @@
   
   .form__todolist{
     display: flex;
-    justify-content: end;
-    margin-bottom: 1rem;
+    justify-content: center;
+    margin-bottom: 3rem;
   }
   
   .loader__todolist{
