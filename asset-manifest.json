@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Huz-Din/ToDoList-React/static/css/main.8a63966d.css",
+    "main.js": "/Huz-Din/ToDoList-React/static/js/main.e776be23.js",
+    "static/js/277.117f98e4.chunk.js": "/Huz-Din/ToDoList-React/static/js/277.117f98e4.chunk.js",
+    "index.html": "/Huz-Din/ToDoList-React/index.html",
+    "main.8a63966d.css.map": "/Huz-Din/ToDoList-React/static/css/main.8a63966d.css.map",
+    "main.e776be23.js.map": "/Huz-Din/ToDoList-React/static/js/main.e776be23.js.map",
+    "277.117f98e4.chunk.js.map": "/Huz-Din/ToDoList-React/static/js/277.117f98e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a63966d.css",
+    "static/js/main.e776be23.js"
+  ]
+}
